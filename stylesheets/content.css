@@ -3,7 +3,7 @@
  src: url("../fonts/Flicker.woff") format('woff');
 }
 @font-face {
- font-family: 'Flicker';
+ font-family: 'Flicker50';
  src: url("../fonts/Flicker4.woff") format('woff');
 }
 @font-face {
@@ -178,7 +178,7 @@
 }
 .ls3_s1_p1 {
   position: relative;
-  font-family: Flicker;
+  font-family: Flicker50;
   font-size: 96px;
   margin-top: 0px;
   margin-left: 0px
@@ -206,7 +206,7 @@
 }
 .ls3_s2_p1 {
   position: relative;
-  font-family: Flicker;
+  font-family: Flicker50;
   font-size: 96px;
   margin-top: 0px;
   line-height: 75%;
@@ -251,7 +251,7 @@
 }
 .ls3_s3_p1 {
   position: relative;
-  font-family: Flicker;
+  font-family: Flicker50;
   font-size: 96px;
   margin-top: 0px;
   margin-left: 0px
@@ -280,7 +280,7 @@
 }
 .ls3_s4_p1 {
   position: relative;
-  font-family: Flicker;
+  font-family: Flicker50;
   font-size: 96px;
   margin-top: 0px;
   /* line-height: 75%; */
@@ -308,7 +308,7 @@
 
 .ls4_p1 {
   position: relative;
-  font-family: Flicker;
+  font-family: Flicker50;
   font-size: 144px;
   margin-top: 54px;
   line-height: 75%;
@@ -407,7 +407,7 @@
 }
 .text {
   position: relative;
-  font-family: Flicker;
+  font-family: Flicker50;
   font-size: 96px;
   margin-top: 5px;
   width: 100%;
@@ -416,7 +416,7 @@
 }
 .text2 {
   position: relative;
-  font-family: Flicker;
+  font-family: Flicker50;
   font-size: 96px;
   margin-top: 5px;
   width: 100%;
@@ -425,7 +425,7 @@
 }
 .ls_fl {
   position: relative;
-  font-family: Flicker;
+  font-family: Flicker50;
   font-size: 260px;
   margin-top: 150px;
   margin-left: 4.72%;
@@ -445,7 +445,7 @@
 }
 .ls5_fl {
   position: relative;
-  font-family: Flicker;
+  font-family: Flicker50;
   font-size: 260px;
   margin-top: 150px;
   margin-left: 4.72%;
