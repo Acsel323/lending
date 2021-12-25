@@ -6,6 +6,20 @@
     <link rel="stylesheet" href="stylesheets/style.css">
     <script src="javascripts/jquery-3.5.1.js" charset="utf-8"></script>
     <script src="javascripts/script.js" charset="utf-8"></script>
+    <script type="text/javascript">
+    // $(function() {
+    //   $('.f1 a').each(function() {
+    // 		$(this).on('click', function(e) {
+    // 			e.preventDefault();
+    // 			var scrollTo = $(this).attr('href');
+    // 			var whitespace = scrollTo == '#s1' ? 70 : -10;
+    // 			$('html,body').animate({
+    // 				scrollTop: $(scrollTo).offset().top - whitespace
+    // 			}, 1000);
+    // 		});
+    // 	});
+    // });
+    // </script>
     <title>Стайлгайд</title>
     <style media="screen">
     @font-face {
@@ -13,20 +27,8 @@
      src: url("fonts/Flicker.woff") format('woff');
     }
     @font-face {
-     font-family: 'Flicker25';
-     src: url("fonts/Flicker3.woff") format('woff');
-    }
-    @font-face {
      font-family: 'Flicker50';
      src: url("fonts/Flicker4.woff") format('woff');
-    }
-    @font-face {
-     font-family: 'Flicker75';
-     src: url("fonts/Flicker5.woff") format('woff');
-    }
-    @font-face {
-     font-family: 'Flicker100';
-     src: url("fonts/Flicker6.woff") format('woff');
     }
     @font-face {
      font-family: 'MonoCondensed';
@@ -384,6 +386,15 @@
       height: 60px;
       margin: 0;
       background-color: #FFFFFF
+    }
+    .plakat {
+      position: relative;
+      display: flex;
+      width: 1440px;
+      height: 795px;
+      background-image: url('images/plakat.png');
+      margin-left: 15px;
+      margin-top: 40px;
     }
     </style>
   </head>
