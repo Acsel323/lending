@@ -1,0 +1,142 @@
+
+@media only screen and (min-width: 768px) and (max-width: 1440px) {
+  .ls1 {
+    height: 74px;
+  }
+  .ls2 {
+    height: 1024px;
+    flex-direction: column;
+
+  }
+  .ls3 {
+    height: 3494px;
+  }
+  .ls4 {
+    height: 1024px;
+  }
+  .ls5 {
+    height: 950px;
+    flex-direction: column;
+  }
+  .ls6 {
+    height: 74px;
+  }
+  .ls2_s1 {
+    margin-top: 20px;
+    margin-left: 6.9%;
+    width: 700px;
+  }
+  .ls2_p1 {
+    margin-top: 50px;
+  }
+  .ls5_s1 {
+    margin-top: 20px;
+    margin-left: 6.9%;
+    width: 700px;
+  }
+  .ls2_p2 {
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 558px;
+  }
+  .ls2_block1 {
+    width: 83.85%;
+    margin-left: 0px;
+    margin-top: 40px;
+  }
+  .ls3_s1 {
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 6.9%;
+    height: 1000px;
+    width: 500px;
+  }
+  .ls3_s2  {
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 6.9%;
+    height: 300px;
+    width: 500px;
+  }
+  .ls3_s3 {
+    flex-direction: column;
+    margin-top: -15px;
+    margin-left: 6.9%;
+    height: 1000px;
+    width: 500px;
+  }
+  .ls3_s4 {
+    flex-direction: column;
+    margin-top: 220px;
+    margin-left: 6.9%;
+    height: 1250px;
+    width: 500px;
+  }
+  .ls5_p1 {
+    width: 750px;
+    margin-left: 6.9%;
+    margin-top: 50px;
+  }
+  .ls5_p2 {
+    width: 515px;
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+  .ls5_s1 {
+    margin-left: 6.9%;
+    margin-top: 0px;
+  }
+  .ls5_block1 {
+    width: 83.85%;
+    margin-top: 40px;
+    margin-left: 0px;
+  }
+  .ls3_block1 {
+    width: 500px;
+  }
+  .ls3_block2 {
+    display: none;
+    height: 0px;
+  }
+  .ls3_block3 {
+    margin-top: 40px;
+  }
+  .ls3_block4 {
+    margin-top: 90px;
+  }
+  .ls3_s1_p {
+    margin-left: 0px;
+    height: 300px;
+  }
+  .ls3_s2_p {
+    margin-left: 0px;
+    margin-top: 60px;
+    height: 200px;
+  }
+  .ls3_s3_p {
+    margin-left: 0px;
+    margin-top: 60px;
+    height: 300px;
+  }
+  .ls3_s4_p {
+    margin-left: 0px;
+    margin-top: 60px;
+    height: 300px;
+  }
+  .ls3_s1_p2 {
+    margin-top: 40px;
+  }
+  .ls3_s2_p2 {
+    margin-top: 40px;
+  }
+  .ls3_s3_p2 {
+    margin-top: 40px;
+  }
+  .ls3_s4_p2 {
+    margin-top: 40px;
+  }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 768px) {
+
+}
