@@ -1,0 +1,40 @@
+<svg width="1440" height="4109" viewBox="0 0 1440 4109" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_100_2406)">
+<line x1="17.2168" y1="10" x2="17.217" y2="4574.56" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="426.027" y1="10" x2="426.028" y2="4574.56" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="822.814" y1="10" x2="822.815" y2="4574.56" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="1219.6" y1="10" x2="1219.6" y2="4574.56" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="221.621" y1="10" x2="221.621" y2="4574.56" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="630.436" y1="10" x2="630.436" y2="4574.56" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="1027.22" y1="10" x2="1027.22" y2="4574.56" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="1424.01" y1="10" x2="1424.01" y2="4574.56" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="15" x2="-601" y2="15" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="219.405" x2="-601" y2="219.405" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="628.217" x2="-601" y2="628.217" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="1037.03" x2="-601" y2="1037.03" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="1433.81" x2="-601" y2="1433.81" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="1830.6" x2="-601" y2="1830.6" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="2227.39" x2="-601" y2="2227.39" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="2624.18" x2="-601" y2="2624.18" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="423.812" x2="-601" y2="423.812" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="832.622" x2="-601" y2="832.622" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="1241.43" x2="-601" y2="1241.43" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="1638.22" x2="-601" y2="1638.22" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="2035.01" x2="-601" y2="2035.01" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="2431.79" x2="-601" y2="2431.79" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="2828.58" x2="-601" y2="2828.58" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="3039" x2="-601" y2="3039" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="3243.41" x2="-601" y2="3243.41" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="3652.22" x2="-601" y2="3652.22" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="4061.03" x2="-601" y2="4061.03" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="3447.81" x2="-601" y2="3447.81" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+<line x1="2423" y1="3856.62" x2="-601" y2="3856.62" stroke="#FAFAFA" stroke-opacity="0.3" stroke-width="10"/>
+</g>
+<defs>
+<filter id="filter0_f_100_2406" x="-611" y="0" width="3054" height="4584.56" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_100_2406"/>
+</filter>
+</defs>
+</svg>
