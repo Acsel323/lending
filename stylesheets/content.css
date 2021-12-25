@@ -1,28 +1,3 @@
-@font-face {
- font-family: 'Flicker';
- src: url("../fonts/Flicker.woff") format('woff');
-}
-@font-face {
- font-family: 'Flicker25';
- src: url("fonts/Flicker3.woff") format('woff');
-}
-@font-face {
- font-family: 'Flicker50';
- src: url("../fonts/Flicker4.woff") format('woff');
-}
-@font-face {
- font-family: 'Flicker75';
- src: url("../fonts/Flicker5.woff") format('woff');
-}
-@font-face {
- font-family: 'Flicker100';
- src: url("../fonts/Flicker6.woff") format('woff');
-}
-@font-face {
- font-family: 'MonoCondensed';
- src: url("../fonts/monocondensed.woff") format('woff');
-}
-
 .ls1 {
   position: relative;
   display: flex;
